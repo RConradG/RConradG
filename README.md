@@ -8,8 +8,9 @@
 - <b>Java</b>
   - [Array-based List Implementation(Data Structures and Algorithms Demo)](https://github.com/RConradG/JavaProjectPortfolio)
  
-- <h2>📃Certifications</h2>
-- [Google Cybersecurity Professional (Expected 01/2025)]()
+<h2>📃Certifications</h2>
+
+- Google Cybersecurity Professional (Expected 01/2025)
 
 
 <h2>📺 Popular YouTube Videos</h2>
