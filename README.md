@@ -2,8 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Pythong<b>
-  - [Created a Simple Sine and XOR Function, Iris Flower Neural Network](https://github.com/RConradG/NeuralNetwork)
+- <b>Python<b>
+  - [Created a Simple Sine and XOR Function, and Iris Flower Neural Network](https://github.com/RConradG/NeuralNetwork)
+  - [Historical Temperature Data API](https://github.com/RConradG/HistoricalTemperatureDataAPI)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
