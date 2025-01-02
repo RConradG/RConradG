@@ -5,7 +5,7 @@
 - <b>Python</b>
   - [Created a Simple Sine and XOR Function, and Iris Flower Neural Network](https://github.com/RConradG/NeuralNetwork)
   - [Historical Temperature Data API](https://github.com/RConradG/HistoricalTemperatureDataAPI)
-- <b>Java></b>
+- <b>Java</b>
   - [Array-based List Implementation(Data Structures and Algorithms Demo)](https://github.com/RConradG/JavaProjectPortfolio)
 
 
