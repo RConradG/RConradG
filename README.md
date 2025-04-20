@@ -1,4 +1,4 @@
-<h1>Salutations, I'm Randall! <br/><a href="https://www.linkedin.com/in/joshmadakor/">Business Owner</a>, <a href="https://github.com/RConradG/RConradG">Software Engineer</a></h1>
+<h1>Salutations, I'm Randall! <br/><a href="https://www.linkedin.com/in/randallgadduang/">Business Owner</a>, <a href="https://github.com/RConradG/RConradG">Software Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
