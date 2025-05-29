@@ -10,7 +10,8 @@
  
 <h2>📃Certifications</h2>
 
-- Google Cybersecurity Professional (Expected 01/2025)
+- Google Cybersecurity Professional (Expected 08/2025)
+- Google IT Support Professional Certificate (Expected 08/25)
 
 
 <h2>📺 Popular YouTube Videos</h2>
